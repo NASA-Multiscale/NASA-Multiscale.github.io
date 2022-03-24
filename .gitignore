@@ -1,0 +1,10 @@
+## These are intended to limit the risk of code being commited into the documentation
+*.c
+*.f90
+*.f
+*.m
+*make
+*proj
+Makefile
+Doxygen
+Doxyfile

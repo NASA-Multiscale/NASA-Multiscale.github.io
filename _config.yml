@@ -23,7 +23,7 @@ email: nasmat@lists.nasa.gov
 ## description: >- # this means to ignore newlines until "baseurl:"
 ## Users of NASMAT and other multiscale computational analysis tools
 description: "Users of NASMAT and other multiscale computational analysis tools"
-baseurl: "/NASA-Multiscale" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://NASA-Multiscale.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: # jekyllrb
 # github_username: # gustafson

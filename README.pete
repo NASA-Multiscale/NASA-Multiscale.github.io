@@ -1,9 +1,0 @@
-## From https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
-## This was installation:
-# jekyll new --skip-bundle .
-
-## This updates the base package
-# bundle update github-pages
-
-## This serves locally
-bundle exec jekyll serve --livereload ## --incremental (incremental will update changed files and new files but not config files)

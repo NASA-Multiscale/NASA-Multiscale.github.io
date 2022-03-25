@@ -19,6 +19,7 @@ The current development team includes:
 -   NASA Contractors
 	-   Dr. Peter Gustafson (Visiting scholar from Western Michigan University)
 	-   Dr. Ibrahim Kaleel (Post-Doc)
+	-   Dr. Chris Sorini (Post-Doc)
 
 Significant past contributors to the software include:
 

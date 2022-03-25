@@ -5,6 +5,7 @@
 *.m
 *make
 *proj
+*~
 Makefile
 Doxygen
 Doxyfile

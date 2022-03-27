@@ -1,10 +1,13 @@
-<!DOCTYPE html>
+---
+layout: page
+title: MAC/GMC 4.0 Example Manual
+authors: Brett A. Bednarcyk and Steven M. Arnold
+#permalink: /about/
+---
+
 <html>
 <head>
-<meta name="generator" content=
-"HTML Tidy for HTML5 for Linux version 5.8.0">
-<meta http-equiv="Content-Type" content=
-"text/html; charset=us-ascii">
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 <meta name="Generator" content="Microsoft Word 15 (filtered)">
 <title>MAC/GMC 4</title>
 
@@ -658,24 +661,11 @@ ul
 <body lang="EN-US" link="blue" vlink="blue" style=
 'word-wrap:break-word'>
 <div class="WordSection1">
-<p class="TitlePage">&nbsp;</p>
-<p class="TitlePage">&nbsp;</p>
-<p class="TitlePage">&nbsp;</p>
-<p class="TitlePage">&nbsp;</p>
 <p class="TitlePage">MAC/GMC 4.0 User&CloseCurlyQuote;s Manual</p>
-<p class="TitlePage">&nbsp;</p>
 <p class="TitlePage">Volume 3:</p>
 <p class="TitlePage">Example Problem Manual</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal" align="center" style='text-align:center'>Brett
-A. Bednarcyk</p>
-<p class="MsoNormal" align="center" style='text-align:center'>
-&nbsp;</p>
-<p class="MsoNormal" align="center" style='text-align:center'>
-Steven M. Arnold</p>
+<p class="MsoNormal" align="center" style='text-align:center'>Brett A. Bednarcyk</p>
+<p class="MsoNormal" align="center" style='text-align:center'>Steven M. Arnold</p>
 </div>
 <span style=
 'font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=
